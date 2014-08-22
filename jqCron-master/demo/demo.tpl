@@ -10,7 +10,7 @@
 			<td><pre>__JSPRE__</pre></td>
 			<td>__HTML__</td>
 		</table>
-		<script src="../../../../../vendor/cmskit/lib-jquery-ui/jquery.min.js"></script>
+		<script src="../../../../../vendor/cmskit/jquery-ui/jquery.min.js"></script>
 		<script type="text/javascript" src="../src/jqCron.js"></script>
 		<script type="text/javascript">
 			__JS__

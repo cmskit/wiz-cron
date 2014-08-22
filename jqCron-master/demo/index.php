@@ -78,7 +78,7 @@ header('Content-Type: text/html; charset=utf-8');
 			</ul>
 			<iframe id="demo"></iframe>
 		</div>
-		<script type="text/javascript" src="../../../../../vendor/cmskit/lib-jquery-ui/jquery.min.js"></script>
+		<script type="text/javascript" src="../../../../../vendor/cmskit/jquery-ui/jquery.min.js"></script>
 		<script type="text/javascript">
 			$(function() {
 				$('#menu a').click(function(e) {
