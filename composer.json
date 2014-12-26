@@ -12,10 +12,11 @@
     ],
     "homepage": "http://cms-kit.com",
 
-  "require": {
+    "require": {
         "php": ">=5.3.3",
         "cmskit/package-installer": "1.0.*@dev",
-        "cmskit/jquery-ui": "dev-master"
+        "cmskit/jquery-ui": "dev-master",
+        "arnapou/jqcron": "dev-master"
     },
     "extra": {
         "wizards": {
